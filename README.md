@@ -33,9 +33,7 @@ Um site.
 <body>
   <h1>Visite o Google!</h1>
   <p>Clique no link abaixo para ir ao Google:</p>
-  <a href="https://www.google.com" target="_blank">Ir para o Google</a>
+  <a href="https://humanoidesite.github.io" target="_blank">Ir para o Meu Site oficial</a>
 </body>
 </html>
 
-<title PKXD - FEITO ></title>
-/<code 7496></code>
